@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(tabs)/index.jsx", "app/(tabs)/_layout.jsx", "app/(tabs)/explore.jsx", "app/_layout.jsx", "app/modal.jsx", "components/external-link.jsx", "components/haptic-tab.jsx", "components/hello-wave.jsx", "components/parallax-scroll-view.jsx", "components/themed-text.jsx", "components/themed-view.jsx"  ]
 }
